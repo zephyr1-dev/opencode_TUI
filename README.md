@@ -127,6 +127,3 @@ If you are working on a project that's related to OpenCode and is using "opencod
 ---
 
 **Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
-# opencode_TUI
-# opencode_TUI
-# opencode_TUI
