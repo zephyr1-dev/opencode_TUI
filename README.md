@@ -41,7 +41,15 @@
   <a href="README.vi.md">Tiếng Việt</a>
 </p>
 
+---
+
+## Terminal UI
+
+OpenCode cung cấp giao diện dòng lệnh tương tác, mạnh mẽ cho phép bạn làm việc với AI trợ lý ngay trong terminal. Dưới đây là ảnh chụp màn hình minh hoạ:
+
 [![OpenCode Terminal UI](packages/web/src/assets/lander/screenshot.png)](https://opencode.ai)
+
+*Nhấp vào ảnh để truy cập trang chủ hoặc xem thêm.*
 
 ---
 
